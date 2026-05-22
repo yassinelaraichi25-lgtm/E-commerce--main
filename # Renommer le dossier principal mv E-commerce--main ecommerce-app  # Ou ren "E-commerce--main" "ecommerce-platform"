@@ -1,0 +1,6 @@
+// Voici mon code actuel
+function addToCart(productId) {
+    // code existant
+}
+
+// Je veux ajouter une vérification de stock avant d'ajouter au panier
